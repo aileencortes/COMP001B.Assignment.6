@@ -6,7 +6,7 @@
 */
 
 a:link, a:visited {
-	color:rgb(92, 89, 89);
+	color:rgb(66, 64, 64);
 	text-decoration: none;
 }
 
@@ -82,16 +82,20 @@ padding-right: 5px;
 	display: flex;
 }
 
+/* Extra CSS*/
 nav{
+	font-size: 20px;
+	line-height: 45px;
 	width: 25%;
 	background-color: rgb(238, 235, 231);
 }
 
 aside{
+	padding-left: 20px;
 	width: 25%;
 	background-color: rgb(238, 235, 231);
+	line-height: 45px;
 }
-
 
 ul{
 	list-style: none;
