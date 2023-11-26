@@ -58,11 +58,13 @@ p {
 }
 
 #footer-container {
+	text-align: center;
 	width: 100%;
 	
 }
 
 #header-container {
+	text-align: center;
 	width: 100%;
 }
 
