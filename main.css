@@ -55,7 +55,8 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
-
+padding-left: 5px;
+padding-right: 5px;
 }
 
 #footer-container {
@@ -65,15 +66,17 @@ p {
 }
 
 #header-container {
-	padding:auto;
+	padding-top: 2em;
+	padding-bottom: 2em;
 	width: 100%;
+	background-color: darkgray;
+
 }
 
 #main-container {
 	display: flex;
 }
 
- 
 nav{
 	width: 25%;
 }
@@ -81,6 +84,5 @@ nav{
 aside{
 	width: 25%;
 }
-
 
 
