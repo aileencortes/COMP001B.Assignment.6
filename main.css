@@ -43,7 +43,6 @@ header {
 
 main {
 
-
 }
 
 p {
@@ -53,34 +52,42 @@ p {
 
 #intro {
 	font-size: 22px;
+	float: left;
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
-
+ width: 50%;
+ margin: auto;
 }
 
 #footer-container {
-	
+	text-align: center;
+	padding: 20px;
+	width: 100%;
 }
 
 #header-container {
-
+	text-align: center;
+	padding: 20px;
+	width: 100%;
 }
 
 #main-container {
-	
+
 }
 
-/* Extra CSS */
 
+/* Extra CSS 
 nav{
 	height: 100%;
-width: 160px;
-position: auto;
-top: 10;
+	width: 25%;
+	position: auto;
+	top: 10;
 left: 0;
 background-color: darkgray;
 overflow: hidden;
 padding-top: 20px;
-}
+*/
+
+
 
