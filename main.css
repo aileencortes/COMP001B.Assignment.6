@@ -55,24 +55,20 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
+
 }
 
 #footer-container {
 	text-align: center;
-	width: 100%;
-	
 }
 
 #header-container {
-	text-align: center;
 	width: 100%;
 }
 
 #main-container {
-	
+	display: flex;
 }
-
-
 
 /* Extra CSS 
 nav{
