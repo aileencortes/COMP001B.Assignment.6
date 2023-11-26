@@ -42,7 +42,7 @@ header {
 }
 
 main {
-	
+	width: 50%;
 }
 
 p {
@@ -60,9 +60,12 @@ p {
 
 #footer-container {
 	text-align: center;
+	padding:auto;
+	width: 100%;
 }
 
 #header-container {
+	padding:auto;
 	width: 100%;
 }
 
@@ -70,17 +73,14 @@ p {
 	display: flex;
 }
 
-/* Extra CSS 
+ 
 nav{
-	height: 100%;
 	width: 25%;
-	position: auto;
-	top: 10;
-left: 0;
-background-color: darkgray;
-overflow: hidden;
-padding-top: 20px;
-*/
+}
+
+aside{
+	width: 25%;
+}
 
 
 
