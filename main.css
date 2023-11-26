@@ -42,7 +42,7 @@ header {
 }
 
 main {
-
+	
 }
 
 p {
@@ -52,29 +52,24 @@ p {
 
 #intro {
 	font-size: 22px;
-	float: left;
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
- width: 50%;
- margin: auto;
 }
 
 #footer-container {
-	text-align: center;
-	padding: 20px;
-	width: 100%;
+	
+	
 }
 
 #header-container {
-	text-align: center;
-	padding: 20px;
-	width: 100%;
+	
 }
 
 #main-container {
-
+	
 }
+
 
 
 /* Extra CSS 
